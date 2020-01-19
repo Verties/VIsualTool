@@ -9,7 +9,7 @@
 #include <vector>
 #include <list>
 
-#include "Defines.h"
+#include "Core.h"
 
 #ifdef VT_PLATFORM_WINDOWS
 	#include <Windows.h>
